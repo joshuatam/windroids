@@ -102,7 +102,7 @@ downloads_all() {
     # downloads (same list as before)
     download_extract wayland "https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.24.0/downloads/wayland-1.24.0.tar.xz"
     download_extract wayland_protocols "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.33/downloads/wayland-protocols-1.33.tar.xz"
-    download_extract libxkbcommon "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.12.2.tar.gz"
+    download_extract libxkbcommon "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.12.4.tar.gz"
     download_extract xorgproto "https://xorg.freedesktop.org/releases/individual/proto/xorgproto-2024.1.tar.xz"
     download_extract libX11 "https://xorg.freedesktop.org/releases/individual/lib/libX11-1.8.6.tar.xz"
     download_extract libXext "https://xorg.freedesktop.org/releases/individual/lib/libXext-1.3.5.tar.xz"
