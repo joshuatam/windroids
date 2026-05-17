@@ -9,7 +9,7 @@ if [ -z "${PROJECT_ROOT:-}" ]; then
 fi
 LOG_FILE="$PROJECT_ROOT/build.log"
 NDK_VERSION="${NDK_VERSION:-r27d}"
-NDK_URL="https://developer.android.google.cn/ndk/downloads/android-ndk-${NDK_VERSION}-linux.zip?hl=zh-cn"
+NDK_URL="https://dl.google.com/android/repository/android-ndk-${NDK_VERSION}-linux.zip?hl=zh-tw"
 
 NDK_DIR="$PROJECT_ROOT/ndk"
 SRC_DIR="$PROJECT_ROOT/src"
